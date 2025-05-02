@@ -28,6 +28,6 @@ A modern, responsive, and visually engaging analytics dashboard built with **Rea
 | ShadCN + Radix UI | UI Components and Accessibility          |
 | Tailwind CSS      | Utility-first CSS styling                |
 | Lucide Icons      | Clean, lightweight icon set              |
-| React Hook Form   | Form handling (if used for inputs)       |
+| React Hook Form   | Form handling                            |
 
 ---
